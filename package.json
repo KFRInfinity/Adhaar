@@ -1,0 +1,21 @@
+{
+  "name": "Adhaar",
+  "description": "A robust and minimal CSS Framework for developing high performance and responsive web applications. Edit
+",
+  "version": "1.0.4",
+  "keywords": [
+    "css-framework",
+    "responsive",
+    "css3"
+  ],
+  "author": " Project Adhaar Contributors (https://github.com/KFRInfinity/Adhaar/graphs/contributors)",
+  "contributors": [
+    "KFR Infinity"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KFRInfinity/Adhaar.git"
+  },
+  "license": "Apache"
+  }
+}
